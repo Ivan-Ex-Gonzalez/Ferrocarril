@@ -12,6 +12,7 @@
 -Juan Bermudez
 
 ## Trabajo practico de SPD
+![image](https://github.com/Ivan-Ex-Gonzalez/Ferrocarril/assets/109388659/2b28215f-bcd7-47a2-888b-6f3b16174e9e)
 
 ## Descripcion
 
