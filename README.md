@@ -100,4 +100,4 @@ void Controlador_de_7_segmentos(int lista[],int estado){
 
 ## :eight_pointed_black_star:Link al proyecto
 
-[Proyecto](https://www.tinkercad.com/things/9mvFr9pk2P8-powerful-gaaris-krunk/editel?sharecode=BOefq5cHaTxn0SszWn3oPzG7zET1XoFudZWGyhD-rGo)
+[Proyecto](https://www.tinkercad.com/things/9mvFr9pk2P8)
